@@ -1,0 +1,50 @@
+
+.chips{
+    padding: 5px 15px 5px 15px;
+    background-color: rgba(0,0,0,.1);
+    border-radius: 25px;
+    color: black;
+    background-image: image("<i class="material-icons">&#xE313;</i>")
+}
+
+.emptyBackground{
+    height: 400px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+}
+   
+.overlayBackground{
+    height: 400px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.test{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+    font-size: 2em;
+}
+
+.tab{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: .889em;
+}
+
+.chip{
+    color: black;
+    background-color: #E4E4E4;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-radius: 100px;
+    width: 150px;
+    font-size: 1em;
+    vertical-align: middle;
+    text-align: center;
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    float: left;
+    margin-right: 5px;
+}
